@@ -1,0 +1,20 @@
+Symbol range map extraction starting
+Processing 6 files
+startProcessing "com\acolos\acolostracker\Main.java" md5: 31de8ab536c375e3da5eae322bb674ef
+endProcessing "com\acolos\acolostracker\Main.java"
+
+startProcessing "com\acolos\acolostracker\proxy\ClientProxy.java" md5: 52d561a136faf13c4cdfe83818ac0c7b
+endProcessing "com\acolos\acolostracker\proxy\ClientProxy.java"
+
+startProcessing "com\acolos\acolostracker\proxy\CommonProxy.java" md5: 6d011dc3f2b6cc6aa2e2862adf30c928
+endProcessing "com\acolos\acolostracker\proxy\CommonProxy.java"
+
+startProcessing "com\acolos\acolostracker\util\DeathTimer.java" md5: 9286d76dbc90b942e915abe897b9553f
+endProcessing "com\acolos\acolostracker\util\DeathTimer.java"
+
+startProcessing "com\acolos\acolostracker\util\LoadDriver.java" md5: 5d128bbebc163ee2ae0fb4583951e58c
+endProcessing "com\acolos\acolostracker\util\LoadDriver.java"
+
+startProcessing "com\acolos\acolostracker\util\Reference.java" md5: 2b44960cfdf92e88be7af8e74a425088
+endProcessing "com\acolos\acolostracker\util\Reference.java"
+

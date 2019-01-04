@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Class-Path: compileDummy.jar providedDummy.jar mysql-connector-java-8.
+ 0.11.jar protobuf-java-2.6.0.jar
+Main-Path: com.acolos.acolostracker.Main
+
